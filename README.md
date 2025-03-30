@@ -3,8 +3,6 @@
 ## Overview
 This project aims to create a visually appealing, professional, and user-friendly website for an advocate specializing in various legal services. The website will feature a modern UI, smooth animations, and transitions to enhance the user experience.
 
-## V0 Prompt
-*"Create a visually appealing, professional, and user-friendly website for an advocate specializing in legal services, including lease deeds, sale deeds, sale agreements, legal heir certificates, death certificates, and cases related to criminal, civil, and family law. The website should have a law-themed design with a clean, modern UI that incorporates smooth animations and transitions to enhance user experience."*
 
 ## Design & Aesthetic Requirements
 - **Theme**: Professional law-themed design with deep blues, dark grays, and gold accents.
